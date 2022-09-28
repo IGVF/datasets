@@ -1,6 +1,6 @@
 # SHARE-seq
 
-FASTQ files were derived from [SRR10428400](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR10428400&display=metadata). Metata for that SRA accession was obtained with [`ffq`](https://github.com/pachterlab/ffq/).
+FASTQ files were derived from [SRR10428400](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR10428400&display=metadata). Metadata for that SRA accession was obtained with [`ffq`](https://github.com/pachterlab/ffq/).
 
 ```bash
 pip install ffq==0.3.0
